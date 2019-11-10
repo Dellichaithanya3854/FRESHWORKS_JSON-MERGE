@@ -1,0 +1,13 @@
+{
+    "strikers" : [
+        {
+            "name" : "Dhoni" ,
+            "club" : "CSK"
+        }
+        ,
+        {
+            "name" : "Rohit" ,
+            "club" : "MI"
+        }
+    ]
+}
